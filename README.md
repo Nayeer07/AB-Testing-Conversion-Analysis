@@ -18,6 +18,11 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Visual Studio Code, Jupyter Note
 6. Run a two-sided two-proportion Z-test and calculate a 95% Newcombe confidence interval for the difference.
 7. Assess statistical and practical significance, discuss limitations, and develop a business recommendation.
 
+
+## Conversion Rate Visualization
+
+![A/B Testing Conversion Rates](images/conversion_rates.png)
+
 ## Results
 
 **Primary assignment-based analysis: 290,584 unique users**
