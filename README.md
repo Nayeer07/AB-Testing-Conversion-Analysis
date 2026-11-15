@@ -21,7 +21,7 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Visual Studio Code, Jupyter Note
 
 ## Conversion Rate Visualization
 
-![A/B Testing Conversion Rates](images/conversion_rates.png)
+![A/B Testing Conversion Rates](conversion_rates.png)
 
 ## Results
 
